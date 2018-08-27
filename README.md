@@ -44,4 +44,7 @@ Required Programs
 Contact
 -------
 - [j3ssie.webutu.com](http://j3ssie.webutu.com/)
+<<<<<<< master
 http:\\jeromjem.netne.net
+=======
+>>>>>>> f2e705f
